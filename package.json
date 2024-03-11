@@ -4,7 +4,7 @@
   "description": "Fetch on Demand with Forms Lab",
   "main": "index.js",
   "directories": {
-    "test": "test"
+    "test": "test --bail" 
   },
   "scripts": {
     "test": "mocha --timeout 5000"
